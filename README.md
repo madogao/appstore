@@ -1,3 +1,6 @@
+# 你好 找不到你的联系方式 只能通过 PR 的方式
+# 想问下你 npm 上你发的 lemon-cli 这个包有有用处吗，如果已经弃用的话，能否删除下，我这边有个相同的项目，由于你的名字导致我上传不上去。
+# 感谢
 # appstore
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
